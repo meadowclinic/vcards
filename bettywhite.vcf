@@ -2,9 +2,9 @@ BEGIN:VCARD
 VERSION:4.0
 N:White;Betty;;;
 FN:Betty White
-ORG:Betty White Reproductive Clinic of Awesomeness
+ORG:Cedars of St. Olaf Hospital
 TITLE:Legendary Star and Badass Woman
-EMAIL;TYPE=WORK:bwhite@meadowclinic.org
+EMAIL;TYPE=WORK:bwhite@cedarsstolaf.org
 TEL;TYPE=WORK,VOICE:+15075550142
 TEL;TYPE=CELL,VOICE:+15075550187
 ADR;TYPE=WORK:;;2400 Herring Circle\n Suite 301;St. Olaf;MN;55057;USA
