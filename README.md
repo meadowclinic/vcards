@@ -115,7 +115,7 @@ One practical note: NFC doesn't read reliably through metal. Tags on metal surfa
 
 It's possible to embed a small photo or logo directly into a `.vcf` file as a Base64-encoded image, so it shows up as the contact's picture. It works, but it can bloat the file size and slow down loading (or fail to load at all) if it's not handled carefully.
 
-**Rather than turn this into a full how-to, this one's easiest as a conversation — if you'd like a custom icon or logo embedded in your cards, let me know and I'll work with you on it directly.**
+**Rather than turn this into a full how-to, this one's easiest as a conversation — if you'd like a custom icon or logo embedded in your cards, [let me know](mailto:mscheinberg@meadowrepro.org) and I'll work with you on it directly.**
 
 ## 5. Customization / Other uses
 
@@ -143,5 +143,5 @@ A stronger option: rename each file to a short random token instead — e.g. `k3
 
 **Big favor for you:** I'm sharing this info in the spirit of helping out those clinics and orgs who are helping to make abortion accessible to those who seek it. If you're grateful for this info and want to say thanks:
 
-1. You can email me! See above.
+1. [You can email me!](mailto:mscheinberg@meadowrepro.org) See above.
 2. You can make a donation to Grace Reproductive Fund, the organization that funds Meadow Reproductive Health and Wellness → [meadowrepro.org/donate](https://meadowrepro.org/donate)
