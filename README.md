@@ -4,7 +4,7 @@
 [mscheinberg@meadowrepro.org](mailto:mscheinberg@meadowrepro.org)
 
 **Want to do this for your clinic / organization?** Feel free to read below to find out how I made these for our staff.
-> [!TIP]
+
 > **If you'd rather skip the DIY project and want me to partner with you to make these — [feel free to reach out by email!](mailto:mscheinberg@meadowrepro.org)**
 
 You may have noticed NFC "buttons" on staff name badges. You "tap" your phone to the button, and it prompts you to open a website which provides a "Contact Card" that can be saved to your personal device. It's very similar to a QR code — your phone reads it and converts it into a web address. The difference is the underlying technology: NFC (Near Field Communication) transfers a short amount of data over a very short distance — similar to how contactless phone payments work.
