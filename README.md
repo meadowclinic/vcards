@@ -94,10 +94,12 @@ You should see the same two lines served back to you.
 ## 3. Getting / Writing an NFC Tag
 
 NFC tags are inexpensive — a 24-pack typically runs under $10 on Amazon.  
-<img src="https://meadowclinic.github.io/vcards/images/NFC-Tags" alt="NFC Tags" width="350">
+
+<img src="https://meadowclinic.github.io/vcards/images/NFC-Tags.png" alt="NFC Tags" width="350">
+
 **NTAG215** is a standard, reliable choice.
 
-1. **Get the NFC Tools app** — free on iOS/Android, with an in-app purchase (around $3) to unlock tag writing.
+1. **Get the [NFC Tools app](https://www.wakdev.com/en/apps.html)** — free on iOS/Android, with an in-app purchase (around $3) to unlock tag writing.
 2. **Add a record** — from the main screen: Write → Add a Record → URL/URI. Enter your card's web address *without* the `https://` prefix (e.g. `meadowclinic.github.io/vcards/bettywhite.vcf`), but make sure the record type at the top is set to `https://`.
 3. **Write the tag** — tap Write, hold the NFC tag to the top of your phone, and let it finish.
 4. **Test it** — tap the tag with your phone. You should get a prompt to open the link; tapping it should open the card.
