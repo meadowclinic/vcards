@@ -93,7 +93,9 @@ You should see the same two lines served back to you.
 
 ## 3. Getting / Writing an NFC Tag
 
-NFC tags are inexpensive — a 24-pack typically runs under $10 on Amazon. **NTAG215** is a standard, reliable choice.
+NFC tags are inexpensive — a 24-pack typically runs under $10 on Amazon. 
+<ING SRC="https://meadowclinic.github.io/vcards/images/NFC-Tags.png">
+**NTAG215** is a standard, reliable choice.
 
 1. **Get the NFC Tools app** — free on iOS/Android, with an in-app purchase (around $3) to unlock tag writing.
 2. **Add a record** — from the main screen: Write → Add a Record → URL/URI. Enter your card's web address *without* the `https://` prefix (e.g. `meadowclinic.github.io/vcards/bettywhite.vcf`), but make sure the record type at the top is set to `https://`.
