@@ -93,8 +93,8 @@ You should see the same two lines served back to you.
 
 ## 3. Getting / Writing an NFC Tag
 
-NFC tags are inexpensive — a 24-pack typically runs under $10 on Amazon. 
-<ING SRC="https://meadowclinic.github.io/vcards/images/NFC-Tags.png">
+NFC tags are inexpensive — a 24-pack typically runs under $10 on Amazon.  
+<img src="https://meadowclinic.github.io/vcards/images/NFC-Tags" alt="NFC Tags" width="350">
 **NTAG215** is a standard, reliable choice.
 
 1. **Get the NFC Tools app** — free on iOS/Android, with an in-app purchase (around $3) to unlock tag writing.
